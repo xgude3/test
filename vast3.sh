@@ -48,4 +48,4 @@ echo "    MINING  XENBLOCKS    "
 echo "     https://xen.pub     "
 echo "-------------------------"
 echo " "
-tail -f /miner.log
+tail -f /root/XENGPUMiner/miner.log
